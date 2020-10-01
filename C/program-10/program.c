@@ -3,6 +3,7 @@
 int main()
 {
   int a,b,c;
+    // Enter value of a
     printf("enter the a");
     scanf("%d",&a);
    b=a<<1;
